@@ -8,6 +8,6 @@ apt-get install -y gnome-core
 
 apt-get install -y git
 
-apt-add-repositry ppa:paolorotolo/android-studio
+add-apt-repositry ppa:paolorotolo/android-studio
 apt-get update
 apt-get install android-studio
